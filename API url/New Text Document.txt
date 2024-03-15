@@ -1,0 +1,1 @@
+httpapi.weatherapi.comv1forecast.jsonkey=858124763e2c4ea282593238241503&q=Delhi&days=1&aqi=no&alerts=no
